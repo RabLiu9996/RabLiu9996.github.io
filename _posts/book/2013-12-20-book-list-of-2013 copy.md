@@ -1,0 +1,33 @@
+---
+layout: post
+title: 2017阅读书单
+category: 读书
+keywords: 阅读,书单,2017
+---
+
+## Pro Git
+
+![cover](http://7u2ho6.com1.z0.glb.clouddn.com/book-pro-git.jpg)
+
+[阅读地址](http://git-scm.com/book)
+
+## The Little Mongodb Book
+
+![cover](http://7u2ho6.com1.z0.glb.clouddn.com/book-the-little-mongodb-book.png)
+
+[阅读地址](https://github.com/karlseguin/the-little-mongodb-book/blob/master/en/mongodb.markdown)
+
+这是yutai Liu！
+
+## 白帽子讲Web安全
+
+![cover](http://7u2ho6.com1.z0.glb.clouddn.com/book-the-safety-of-web-by-white-hat.jpg)
+
+[购买地址](http://book.douban.com/subject/10546925/)
+
+## 浪潮之巅
+
+![cover](http://7u2ho6.com1.z0.glb.clouddn.com/book-on-top-of-tides.jpg)
+
+[购买地址](http://book.douban.com/subject/6709783/)
+
